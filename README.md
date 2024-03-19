@@ -1,0 +1,2 @@
+# lucky-bn
+Project Lucknumber
